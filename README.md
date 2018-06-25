@@ -1,24 +1,6 @@
-# README
+Go to [http://woof-mask.herokuapp.com/](http://woof-mask.herokuapp.com/) to see it live.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+When looking though the code take a look at the following files:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* For the view elements: [app/views/welcome/new](app/views/welcome/new)
+* For the custom JavaScript used to generate the mask[app/assets/javascripts/welcome.js](app/assets/javascripts/welcome.js)
