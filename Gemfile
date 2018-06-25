@@ -70,3 +70,6 @@ gem 'bootstrap', '~> 4.1.1'
 
 # Popper
 gem 'popper_js', '~> 1.12.9'
+
+# Sprockets for Rails
+gem 'sprockets-rails', :require => 'sprockets/railtie'
