@@ -1,0 +1,7 @@
+{
+  "name": "woof",
+  "private": true,
+  "dependencies": {
+    "jquery-mask-plugin": "^1.14.15"
+  }
+}
