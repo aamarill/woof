@@ -1,4 +1,4 @@
-Go to [http://woof-mask.herokuapp.com/](http://woof-mask.herokuapp.com/) to see it live.
+Go to [http://woof-mask.herokuapp.com/](https://woof-mask.herokuapp.com/) to see it live.
 
 When looking though the code take a look at the following files:
 
